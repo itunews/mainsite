@@ -175,7 +175,7 @@
     </div>
         <div class="col l7"> <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
         <h6 style="font-family:avenirlight;!important;color:white;!important;">
-            &copy; International Telecommunication Union 1865-2017 All Rights Reserved. </br>ITU is the United Nations' specialized agency for information and communication technology. Any opinions expressed and statistics presented by third parties do not necessarily reflect the views of ITU.
+            &copy; International Telecommunication Union 1865-2018 All Rights Reserved. </br>ITU is the United Nations' specialized agency for information and communication technology. Any opinions expressed and statistics presented by third parties do not necessarily reflect the views of ITU.
             
             </h6>
         <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
