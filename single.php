@@ -21,7 +21,7 @@
    <div class="homeartrow">  <!--IND: refer to CSS for modifying this div -->
 
 <div class="row"> <!--IND: start row -->
-<div class="col m9 l8"> <!--IND: create a column 9/12 columns on tablets and 10/12 columns on desktop -->
+<div class="col m9 l7"> <!--IND: create a column 9/12 columns on tablets and 10/12 columns on desktop -->
      <h5 style="font-family:avenirlight;color:white;"><?php the_category( ' | ' ); ?></h5>  <!--IND: query the database for the categories, separated by a bar and apply inline style to them -->
         <h6 style="font-family:avenirlight;color: white;"> <?php the_time('F j, Y') ?></h6>   <!--IND: query the database for the date, and apply inline style to them -->
        <p class="flow-text4" style="color: white;font-family: avenirbold;margin-top: 1.5%;"> <?php the_title(); ?>  </p>  <!--IND: get the title of post from database, force some inline styles and make the text continiously responsive- refer to flow-text classes in ITU News CSS -->
