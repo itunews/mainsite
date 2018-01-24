@@ -1311,6 +1311,11 @@ width: 5em;
     height: 32em;
  } }
 
+            @media only screen and (max-width: 890px) {
+.subscribetopban {
+    height: 70em;
+ } }
+
 
             @media only screen and (max-width: 600px) {
 .parallax-container {
