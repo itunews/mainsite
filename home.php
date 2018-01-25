@@ -50,7 +50,7 @@ Template Name: Homepage
 
 <div class="row">  <!--IND: indicate the start of a row -->
 
-<div class="col m9 l8">  <!--IND: indicate this div will occupy 8/12 columns on desktop and 9/12 columns on tablet -->
+<div class="col m9 l7">  <!--IND: indicate this div will occupy 8/12 columns on desktop and 9/12 columns on tablet -->
 
      
             <p id="megatitle" class="flow-text4" style="letter-spacing: -0.1vw;color: white;font-family: avenirbold;margin-top: 1.5%;    margin-bottom: -0.05em;"> <?php the_title(); ?></p>  <!--IND: instruct Wordpress database to relay the title of the current post -->
