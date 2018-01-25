@@ -1,3 +1,118 @@
+style20170501.css
+DETAILS
+ACTIVITY
+Today
+4:31 PMComputer
+
+You edited an item
+Style Sheet
+style20170501.css
+Yesterday
+Wed 4:09 PMComputer
+
+You edited an item
+Style Sheet
+style20170501.css
+Earlier this week
+Sun 6:12 PMComputer
+
+You edited an item
+Style Sheet
+style20170501.css
+Earlier this month
+Jan 10Computer
+
+You edited an item
+Style Sheet
+style20170501.css
+Jan 5Computer
+
+You renamed an item
+Style Sheet
+style20170501.css
+style20171412.css
+Jan 5Computer
+
+You edited an item
+Style Sheet
+style20171412.css
+Last month
+Dec 15, 2017Computer
+
+You renamed an item
+Style Sheet
+style20171412.css
+style20170712.css
+Dec 7, 2017Computer
+
+You edited an item
+Style Sheet
+style20170712.css
+Dec 7, 2017Computer
+
+You renamed an item
+Style Sheet
+style20170712.css
+style20172111.css
+Dec 7, 2017Computer
+
+You edited an item
+Style Sheet
+style20172111.css
+Last year
+Nov 28, 2017Computer
+
+You renamed an item
+Style Sheet
+style20172111.css
+style20172410.css
+Nov 24, 2017Computer
+
+You edited an item
+Style Sheet
+style20172410.css
+Nov 22, 2017
+
+You changed permissions on an item
+Style Sheet
+style20172410.css
+Can edit
+Anyone with the link
+Nov 22, 2017
+
+You shared an item
+Style Sheet
+style20172410.css
+Can view
+Anyone with the link
+Nov 21, 2017Computer
+
+You edited an item
+Style Sheet
+style20172410.css
+Oct 24, 2017Computer
+
+You renamed an item
+Style Sheet
+style20172410.css
+style20172509.css
+Oct 20, 2017Computer
+
+You edited an item
+Style Sheet
+style20172509.css
+Sep 26, 2017Computer
+
+You renamed an item
+Style Sheet
+style20172509.css
+style20170408.css
+Sep 26, 2017Computer
+
+You edited an item
+Style Sheet
+style20170408.css
+
 /*
 Theme Name: itunews
 Theme URI: http://itu.int/
@@ -30,7 +145,14 @@ opacity: 0.3;
 margin-left: 46em;
 }
 
-.firstad{background-image: url("http://news.itu.int/wp-content/uploads/2018/01/itufirstad.gif");}
+.wth_success{
+        font-family: avenirbold;
+    font-size: 3em;
+    color: #195DA9;
+    
+}
+
+.firstad{height: 8em;margin-top: 3em;margin-bottom: 3em;}
 
 .ITU404block{
     color: white;
@@ -1092,6 +1214,7 @@ blockquote {
   color: #00A0DB;
   font-size: 1.5em; }
 
+
 .poptiletext {
   font-family: avenirbold;
   font-size: 1.2em;
@@ -1154,7 +1277,7 @@ ul:not(.browser-default) li {
 
           @media only screen and (max-width: 600px) {
   blockquote {
-          bottom: -4%;
+        margin-left: 1em;
  } }
 
 
@@ -1493,4 +1616,3 @@ table.highlight > tbody > tr:hover {
     margin-left: -3em;
 
 }
-
