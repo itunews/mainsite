@@ -28,7 +28,7 @@ Template Name: 404
     <div class="row">
     <div class="col l8 push-l1">
     <div class="ITU404blockarticle">
-        <h5 style="letter-spacing:-0.00vw;">Here is the latest article you can read instead:</h3>
+        <h5 style="letter-spacing:-0.01vw;">Here is the latest article you can read instead:</h3>
 <h2><?php the_title(); ?></h2>
     
     </div>
