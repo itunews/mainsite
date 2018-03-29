@@ -3,6 +3,7 @@
 <!--ITU NEWS DOCUMENTATION (IND): this PHP language_attributes code displays the language attributes for the <html> tag. The possible language attributes are dir (text direction), lang and xml:lang. The choice of lang and xml:lang depends on the $doctype argument.  -->
 <html <?php language_attributes(); ?>>
   <head>
+    <?php include_once("analyticsPHPinject.php") ?>
     <meta charset="<?php bloginfo('charset'); ?>"> <!--ITU NEWS DOCUMENTATION (IND): set the site characterset-->
     <meta name="language" content="english"> <!--IND: set the site characterset-->
     <meta name="distribution" content="global"> <!--IND: set the visibility region-->
@@ -68,21 +69,20 @@
           <div class="col l10"> <!--IND: indicate this is a column taking up 10/12 of the width of the screen-->
            <a href="http://news.itu.int">
 
-           <img class="mainlogo left wow appear-from-left element-animated" srcset="<?php echo get_template_directory_uri() . '/media/ituenwslogo.png'; ?>" src="<?php echo get_template_directory_uri() . '/media/ituenwslogo.png'; ?>"> <!--IND: use PHP to relay root directory of website and join with URI of main logo graphic, srcset is the responsive version of src-->
+           <img class="mainlogo left" srcset="<?php echo get_template_directory_uri() . '/media/ituenwslogo.png'; ?>" src="<?php echo get_template_directory_uri() . '/media/ituenwslogo.png'; ?>"> <!--IND: use PHP to relay root directory of website and join with URI of main logo graphic, srcset is the responsive version of src-->
 
            </a>
         </div>
-                   <div class="col l1">
-              <div class="right" id="translator">
-              
-              </div>
-                  </div> 
+            
                           <div class="col l1"> <!--IND: indicate this is a column taking up 1/12 of the width of the screen-->
       <a href="#modalsearch"> <!--IND: set the site characterset-->
 
       <img class="searchicon right" srcset="<?php echo get_template_directory_uri() . '/media/searchicon-01.svg'; ?>" src="<?php echo get_template_directory_uri() . '/media/searchicon-01.svg'; ?>"></a> <!--IND: set the site characterset-->
                   </div> 
+                  
               </div>
+
+
               </div>
       </div>
 

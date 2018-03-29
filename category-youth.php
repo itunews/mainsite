@@ -6,7 +6,7 @@
 <div class="row">
     <div class="col l8">
         
-                                   <a href="http://news.itu.int/category/ict4sdg/"> <h4 style="font-family:avenirbold;color:#0063A7;">Infrastructure</h4> </a>
+                                   <a href="http://news.itu.int/category/et/"> <h4 style="font-family:avenirbold;color:#0063A7;">Emerging Trends</h4> </a>
          <h4 style="font-family:avenirbold;font-size:1.2em;color:#00A4E6;padding-right: 5%;">Youth</h2>
         
 

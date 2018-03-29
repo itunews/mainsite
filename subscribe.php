@@ -33,11 +33,11 @@ Template Name: subscribe
           <h5 class="ITU_subscribesub" style="font-family:avenirlight;color:black;margin-bottom:3em;"><br> Stay current with ITU News Weekly. Sign up to receive our free roundup of how key tech and telecom industry trends impact policy and regulation – plus all the latest information on key ITU events and initiatives. <br><br>Subscribe today.</h5>
         
 <?php ninja_forms_display_form(  $form_id = '6' );  ?>
-   
+    <!--
             <div class="chip alertchip">
     Note: Alerts will not be sent during the month of January due to maintenance.
     <i class="close material-icons">X</i>
-  </div>
+  </div>-->
         
     <div class="notifydisclaimer">
   We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and we will not provide your personal information to any third party individual, government agency, or company at any time unless compelled to do so by law. We will use your e-mail address solely to provide timely ITU News Updates. ITU will maintain the information you send via e-mail in accordance with applicable law. Our site provides users the opportunity to opt-out of receiving communications from us by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at anytime. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in the e-mail.

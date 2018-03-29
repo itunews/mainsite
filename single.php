@@ -11,7 +11,7 @@
 
 
  <div class="parallax-container"> <!--IND: start the parallax container at the top -->
-    <div class="parallax"> 
+    <div class="parallax ITU_article_parallax"> 
 
     <img src="<?php echo $image[0]; ?>"> <!--IND: return the image with array 0 (above fetched image src) -->
 
@@ -42,7 +42,7 @@
 
         
     
-    <div id="mainarticle" class="col l8 flow-text"> <!--IND: create a column 8/12 columns the width the parent container AND APPLY CONTINIOUSLY responsive text class to anything inside this column -->
+    <div id="mainarticle" class="col l8 s12 flow-text"> <!--IND: create a column 8/12 columns the width the parent container AND APPLY CONTINIOUSLY responsive text class to anything inside this column -->
 
      <?the_content(); ?> <!--IND: request Wordpress to fetch the article main body text and display it inside this column -->
    
@@ -51,11 +51,13 @@
 
     <div class="col l4 push-l1"> <!--IND: create a column 4/12th the width of the parent container -->
 
-      <a href="https://www.equals.org/"><img class="z-depth-3 responsive-img storyfirstadd wow appear-from-bottom element-animated" srcset="<?php echo get_template_directory_uri() . '/media/equalsadv-01.svg'; ?>" src="<?php echo get_template_directory_uri() . '/media/equalsadv-01.svg'; ?>"></a> 
+      <a href="https://www.itu.int/net4/wsis/forum/2018/"><img class="responsive-img hoverable storyfirstadd wow appear-from-bottom element-animated" srcset="<?php echo get_template_directory_uri() . '/media/wsis_advert.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/wsis_advert.jpg'; ?>"></a> 
 
             <div class="newssignblok"> <!--IND: create the newsletter advert block -->
-        <h5 style="color:#039be5;">Sign up to our weekly Newsletter</h5> <!--IND: force some style to the H tag -->
-        <a href="http://news.itu.int/subscribe/" class="newsletbuttontwo waves-effect waves-light btn">Subscribe</a> <!--IND: refer to the newsletbuttontwo class to modify this button -->
+
+              <div class="newslettersignup wow appear-from-bottom element-animated hoverable">
+        <h5>Sign up to our weekly Newsletter</h5> <!--IND: force some style to the H tag -->
+        <a href="http://news.itu.int/subscribe/" class="newsletbuttontwo waves-effect waves-light btn">Subscribe</a> <!--IND: refer to the newsletbuttontwo class to modify this button --></div>
  
     <h5 style="padding-top:19%;font-family:avenirbold;color:#039be5;padding-bottom:2%;padding-top: 3em;">Popular Now</h5> <!--IND: insert the popular now title and forse some inline style -->
         
@@ -83,15 +85,17 @@ $my_query->the_post();?>
           <a href="<?php the_permalink() ?>"> <!--IND: link the entire block to the URI of the post -->
         <div class="col l4">
       
-    <img class="popularthumbs responsive-img wow appear-from-left element-animated" src="<?php the_post_thumbnail_url( 'thumbnail' ); ?>"> <!--IND: fetch the thumbnail from database and attach it to this img markuo -->
+    <img class="popularthumbs hoverable responsive-img wow appear-from-left element-animated" src="<?php the_post_thumbnail_url( 'thumbnail' ); ?>"> <!--IND: fetch the thumbnail from database and attach it to this img markuo -->
             </div>
             <div class="col s6 l8"> <!--IND: create column 50% width of mobile phones and 8/12th width of parent container on desktops -->
-            <p class="poptiletext wow appear-from-right element-animated"><?php the_title(); ?></p> </a> <!--IND: get the title and pply animation to it -->
+            <p class="poptiletext wow appear-from-right element-animated"><?php the_title(); ?></p> </a> <!--IND: get the title and apply animation to it -->
       
 
            
 
         </div>
+
+      
         </div>
         <!--IND: ask database to repeat this output process till all 5 post vacancies are filled-->
 
@@ -103,6 +107,9 @@ echo '</ul></div>';
 $post = $orig_post;
 wp_reset_query(); ?>     
     
+      <div class="row">
+ <a href="https://www.itu.int/en/ITU-T/AI/2018/Pages/default.aspx"><img class="toweradv responsive-img hoverable wow appear-from-bottom element-animated" srcset="<?php echo get_template_directory_uri() . '/media/aiadvert.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/aiadvert.jpg'; ?>"></a> 
+        </div>
     
 
     </div>

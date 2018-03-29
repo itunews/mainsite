@@ -36,7 +36,7 @@ add_action('after_setup_theme', 'itunews_setup');
 function itunews_scripts() {
 
     wp_enqueue_style( 'materializecss', get_template_directory_uri() . '/secondary.css'); //Load the Third-Party CSS library from Materialize.css
-    wp_enqueue_style( 'itunewscss', get_template_directory_uri() . '/style20170501.css'); //Load our own stylesheet after loading Third Party so our styles are not overwritten 
+    wp_enqueue_style( 'itunewscss', get_template_directory_uri() . '/style20180502A.css'); //Load our own stylesheet after loading Third Party so our styles are not overwritten 
 //At the end of a minor update, specially to the CSS, we rename our CSS with the current date and time and change the same here. This will force all users to load the latest CSS everytime
 
 wp_enqueue_script( 'materialize', get_template_directory_uri() . '/js/materialize.min.js', array('jquery'),true); //Load the Third party Javascript library

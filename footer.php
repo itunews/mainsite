@@ -7,13 +7,13 @@
     <div class="col l7"> <!--IND: create a column 7/12th the width of the parent container only on desktop (desktop is targeted by 'l' before the number 7 as in 'l7'-->
         <div class="row"> <!--IND: create another row -->
         <div class="col l4"> <!--IND: create another column that is 4/12th in width on desktop, the total columns must be equal to 12, here 'col l4'x3 -->
-             <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimga z-depth-3" srcset="<?php echo get_template_directory_uri() . '/media/mag3.JPG'; ?>" src="<?php echo get_template_directory_uri() . '/media/mag1.JPG'; ?>"></a> <!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimga class to modify magazine cover CSS and animation -->
+             <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimga z-depth-3" srcset="http://news.itu.int/wp-content/uploads/2018/02/mag3.jpg" src="http://news.itu.int/wp-content/uploads/2018/02/mag3.jpg"></a> <!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimga class to modify magazine cover CSS and animation -->
         </div>
               <div class="col l4"><!--IND: create another column that is 4/12th in width on desktop -->
-              <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimgb z-depth-3" srcset="<?php echo get_template_directory_uri() . '/media/mag2.JPG'; ?>" src="<?php echo get_template_directory_uri() . '/media/mag2.JPG'; ?>"></a><!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimgb class to modify magazine cover CSS and animation -->
+              <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimgb z-depth-3" srcset="http://news.itu.int/wp-content/uploads/2018/02/mag2.jpg" src="http://news.itu.int/wp-content/uploads/2018/02/mag2.jpg"></a><!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimgb class to modify magazine cover CSS and animation -->
         </div>
               <div class="col l4"><!--IND: create another column that is 4/12th in width on desktop -->
-             <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimgc z-depth-3" srcset="<?php echo get_template_directory_uri() . '/media/mag1.JPG'; ?>" src="<?php echo get_template_directory_uri() . '/media/mag3.JPG'; ?>"></a><!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimgc class to modify magazine cover CSS and animation -->
+             <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimgc z-depth-3" srcset="http://news.itu.int/wp-content/uploads/2018/02/mag1.jpg" src="http://news.itu.int/wp-content/uploads/2018/02/mag1.jpg"></a><!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimgc class to modify magazine cover CSS and animation -->
         </div>
         
         </div>
@@ -59,6 +59,8 @@
         <a href="http://news.itu.int/category/et/big-data/"><h6 style="font-family:avenirlight;!important;color:#fff;">Big Data</h6></a>
 
              <a href="http://news.itu.int/category/et/Cloud/"><h6 style="font-family:avenirlight;!important;color:#fff;">Cloud</h6></a>
+
+                 <a href="http://news.itu.int/category/et/Youth/"><h6 style="font-family:avenirlight;!important;color:#fff;">Youth</h6></a>
 
                   <a href="http://news.itu.int/category/et/connected-car/"><h6 style="font-family:avenirlight;!important;color:#fff;">Connected Car</h6></a>
 
@@ -173,7 +175,7 @@
       <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
       
     </div>
-        <div class="col l7"> <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
+        <div class="col l8"> <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
         <h6 style="font-family:avenirlight;!important;color:white;!important;">
             &copy; International Telecommunication Union 1865-2018 All Rights Reserved. </br>ITU is the United Nations' specialized agency for information and communication technology. Any opinions expressed and statistics presented by third parties do not necessarily reflect the views of ITU.
             
@@ -195,6 +197,20 @@
 
 <!--end footer container-->
   <?php wp_footer(); ?>
-  <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
+ 
+<!--Linkedin Insights collection script-->
+  <script type="text/javascript">
+_linkedin_data_partner_id = "94195";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=94195&fmt=gif" />
+</noscript>
+
 </body>
 </html>
