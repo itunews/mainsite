@@ -7,17 +7,19 @@
     <div class="col l7"> <!--IND: create a column 7/12th the width of the parent container only on desktop (desktop is targeted by 'l' before the number 7 as in 'l7'-->
         <div class="row"> <!--IND: create another row -->
         <div class="col l4"> <!--IND: create another column that is 4/12th in width on desktop, the total columns must be equal to 12, here 'col l4'x3 -->
-             <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimga z-depth-3" srcset="http://news.itu.int/wp-content/uploads/2018/02/mag3.jpg" src="http://news.itu.int/wp-content/uploads/2018/02/mag3.jpg"></a> <!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimga class to modify magazine cover CSS and animation -->
+             <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimga z-depth-3" srcset="<?php echo get_template_directory_uri() . '/media/mag3.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/mag3.jpg'; ?>"></a> <!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimga class to modify magazine cover CSS and animation -->
         </div>
               <div class="col l4"><!--IND: create another column that is 4/12th in width on desktop -->
-              <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimgb z-depth-3" srcset="http://news.itu.int/wp-content/uploads/2018/02/mag2.jpg" src="http://news.itu.int/wp-content/uploads/2018/02/mag2.jpg"></a><!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimgb class to modify magazine cover CSS and animation -->
+              <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimgb z-depth-3" srcset="<?php echo get_template_directory_uri() . '/media/mag2.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/mag2.jpg'; ?>"></a><!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimgb class to modify magazine cover CSS and animation -->
         </div>
               <div class="col l4"><!--IND: create another column that is 4/12th in width on desktop -->
-             <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimgc z-depth-3" srcset="http://news.itu.int/wp-content/uploads/2018/02/mag1.jpg" src="http://news.itu.int/wp-content/uploads/2018/02/mag1.jpg"></a><!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimgc class to modify magazine cover CSS and animation -->
+             <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimgc z-depth-3" srcset="<?php echo get_template_directory_uri() . '/media/mag1.jpg'; ?>" src="   <?php echo get_template_directory_uri() . '/media/mag1.jpg'; ?>"></a><!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimgc class to modify magazine cover CSS and animation -->
         </div>
         
         </div>
      
+
+
        
        
        </div>
