@@ -16,9 +16,9 @@
     <link rel="shortcut icon" href="<?php echo get_template_directory_uri() . '/media/logo-ITU.png'; ?>" type="image/x-icon">
 
     <meta name="description" content="Latest technology and telecommunications news for technology leaders"><meta name="keywords" content="technology, news, telecommunications, ITU, 5G, technology latest"><meta property="og:site_name" content="ITU"><meta property="og:fb:admins"><title><?php wp_title(''); ?></title><?php wp_head(); ?>
-      
+
       <meta name="google-site-verification" content="G4CD8AzDYm5GOdkjfM61grx6yggtgAX-aQQ1M9mt8MA" />
-      
+
             <div id="modalsearch" class="modal modalsearch">
   <div class="row">
   <div class="col l12">
@@ -35,31 +35,31 @@
     </div>
 </div>
 
-   
+
   </div>
 
           <div class="mainnav">
-              
+
               <div class="container">
-              
-              
-              
+
+
+
       <div class="row firstnavrow">
           <div class="col l10">
            <a href="http://news.itu.int"><img class="mainlogo left wow appear-from-left element-animated" srcset="<?php echo get_template_directory_uri() . '/media/ituenwslogo.png'; ?>"></a>
         </div>
                    <div class="col l1">
               <div class="right" id="translator">
-              
+
               </div>
-                  </div> 
+                  </div>
                           <div class="col l1">
       <a href="#modalsearch"><img class="searchicon right" srcset="<?php echo get_template_directory_uri() . '/media/searchicon-01.svg'; ?>"></a>
-                  </div> 
+                  </div>
               </div>
-              
-              
-                 
+
+
+
               </div>
       </div>
 
@@ -73,7 +73,7 @@
                    <a href="#" data-activates="slide-out" class="button-collapse"><span class="right">Menu</span></a>
 
           </div>
-       
+
               <div class="menuitems container hide-on-med-and-down">
 
                    <a href="#"><span class="right">Writers</span></a>
@@ -84,14 +84,14 @@
 
          <a href="#"><span style="margin-right: 1em;" class="right">Designers</span></a>
 
-        
-                 
-              
-              
-              
-          
-          
-          
+
+
+
+
+
+
+
+
           </div>
 </div>
 
@@ -102,16 +102,16 @@
     <div class="modal-content notifymodal">
        <?php ninja_forms_display_form(  $form_id = '4' );  ?>
 <div class="notifydisclaimer">
-  We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and we will not provide your personal information to any third party individual, government agency, or company at any time unless compelled to do so by law. We will use your e-mail address solely to provide timely ITU News Updates. ITU will maintain the information you send via e-mail in accordance with applicable law. Our site provides users the opportunity to opt-out of receiving communications from us by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at anytime. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in the e-mail.
+  We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and we will not provide your personal information to any third party individual, government agency, or company at any time unless compelled to do so by law. We will use your e-mail address solely to provide timely ITU News Updates. ITU will maintain the information you send via e-mail in accordance with applicable law. Our site provides users the opportunity to opt-out of receiving communications from us by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at anytime. Users who no longer wish to receive our ITU News Weekly or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in the e-mail.
 
 </div>
 </div>
     </div>
 </div>
 
-   
+
   </div>
-          
+
             <ul id="slide-out" class="side-nav">
 
     <li>
@@ -121,7 +121,7 @@
      <li><a href="http://news.itu.int/subscribe/">Subscribe</a></li>
     <li><a href="http://news.itu.int/about-us/">About</a></li>
     <div class="divider"></div>
- 
+
 
    <ul class="collapsible collapsible-accordion">
           <li>
@@ -141,7 +141,7 @@
                    <li style="list-style-type:none;"><a href="http://news.itu.int/category/et/connected-car/">Connected Car</a></li>
                 <li style="list-style-type:none;"><a href="http://news.itu.int/category/et/artificial-intelligence/">Artificial Intelligence</a></li>
                 <li style="list-style-type:none;"><a href="http://news.itu.int/category/et/open-source/">Open Source</a></li>
-             
+
               </ul>
             </div>
           </li>
@@ -200,7 +200,7 @@
                     <li style="list-style-type:none;"><a href="http://news.itu.int/category/ict4sdg/sdg15">Life on Land</a></li>
                      <li style="list-style-type:none;"><a style="font-size:0.78em;" href="http://news.itu.int/category/ict4sdg/sdg16">Peace, Justice and Strong Institutions</a></li>
                       <li style="list-style-type:none;"><a href="http://news.itu.int/category/ict4sdg/sdg17">Partnerships for the Goals</a></li>
-             
+
               </ul>
             </div>
           </li>
@@ -208,17 +208,17 @@
 
 
   </ul>
-  
-        
 
-    
-  
-    
-  
-      
-      
+
+
+
+
+
+
+
+
   </head>
-    
-  
+
+
 
     <body <?php body_class(); ?>>

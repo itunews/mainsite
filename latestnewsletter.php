@@ -16,9 +16,9 @@ Template Name: newsletter
     <meta name="viewport" content="width=device-width">
     <!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]-->
     <meta content="telephone=no" name="format-detection">
-    <title>Latest ITU Newsletter</title>
-    
-    
+    <title>Latest ITU News Weekly</title>
+
+
     <style type="text/css" id="media-query">
       body {
   margin: 0;
@@ -41,7 +41,7 @@ a[x-apple-data-detectors=true] {
 
     a, a:link, a:visited, a:focus, a:hover, a:active{
   color:#195DA9;
-  text-decoration:none; 
+  text-decoration:none;
   cursor: pointer;
 
 [owa] .img-container div, [owa] .img-container button {
@@ -165,7 +165,7 @@ a[x-apple-data-detectors=true] {
 </head>
 <body class="clean-body" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #fff">
 
-  
+
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-100202039-1"></script>
 <script>
@@ -242,7 +242,7 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:20px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
 
-                  
+
                     <div align="left" class="img-container left fixedwidth" style="padding-right: 0px;  padding-left: 10px;">
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 10px;" align="left"><![endif]-->
   <a href="http://news.itu.int/" target="_blank">
@@ -253,7 +253,7 @@ a[x-apple-data-detectors=true] {
 <!--[if mso]></td></tr></table><![endif]-->
 </div>
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -270,10 +270,10 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:40px; padding-bottom:5px; padding-right: 25px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 10px; padding-top: 10px; padding-bottom: 5px;"><![endif]-->
-<div style="color:#989898;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 10px; padding-top: 0px; padding-bottom: 5px;"> 
-  <div style="font-size:12px;line-height:14px;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;color:#989898;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 14px; line-height: 16px;"><span style="line-height: 40px; font-size: 24px;"><?php the_field('intro_greeting'); ?></span></span><span style="font-size: 24px; line-height: 28px;"></span></p></div>  
+<div style="color:#989898;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 10px; padding-top: 0px; padding-bottom: 5px;">
+  <div style="font-size:12px;line-height:14px;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;color:#989898;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 14px; line-height: 16px;"><span style="line-height: 40px; font-size: 24px;"><?php the_field('intro_greeting'); ?></span></span><span style="font-size: 24px; line-height: 28px;"></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
@@ -281,20 +281,20 @@ a[x-apple-data-detectors=true] {
 
 
                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 20px; padding-left: 10px; padding-top: 5px; padding-bottom: 20px;"><![endif]-->
-<div style="color:#989898;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 20px; padding-left: 10px; padding-top: 5px; padding-bottom: 20px;">  
-  <div style="font-size:18px;line-height:31px;color:#989898;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="margin: 0;font-size: 22px;line-height: 31px"><span style="font-size: 22px; line-height: 31px;"><span style="font-size: 18px; line-height: 31px;"><?php the_field('intro_greeting_full'); ?></span></span></p></div> 
+<div style="color:#989898;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 20px; padding-left: 10px; padding-top: 5px; padding-bottom: 20px;">
+  <div style="font-size:18px;line-height:31px;color:#989898;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="margin: 0;font-size: 22px;line-height: 31px"><span style="font-size: 22px; line-height: 31px;"><span style="font-size: 18px; line-height: 31px;"><?php the_field('intro_greeting_full'); ?></span></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
           <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
         </div>
       </div>
-    </div> 
+    </div>
   <!--[if IE]><div class="ie-browser"><![endif]-->
   <!--[if mso]><div class="mso-container"><![endif]-->
   <table class="nl-container" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #FFFFFF;width: 100%" cellpadding="0" cellspacing="0">
@@ -313,8 +313,8 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
 
-                  
-                    
+
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="divider " style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
     <tbody>
         <tr style="vertical-align: top">
@@ -332,33 +332,33 @@ a[x-apple-data-detectors=true] {
         </tr>
     </tbody>
 </table>
-                  
-                  
+
+
                     <div class="">
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 15px;"><![endif]-->
-  <div style="color:#195DA9;line-height:120%;font-family:'Helvetica Neue',Arial, Helvetica, sans-serif; padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 15px;">  
-    <div style="font-size:12px;line-height:14px;color:#195DA9;font-family:'Helvetica Neue',Arial, Helvetica, sans-serif;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><strong><span style="font-size: 34px; line-height: 40px;">Spotlight</span></strong></p></div> 
+  <div style="color:#195DA9;line-height:120%;font-family:'Helvetica Neue',Arial, Helvetica, sans-serif; padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 15px;">
+    <div style="font-size:12px;line-height:14px;color:#195DA9;font-family:'Helvetica Neue',Arial, Helvetica, sans-serif;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><strong><span style="font-size: 34px; line-height: 40px;">Spotlight</span></strong></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
 </div>
-                  
-                  
+
+
                     <div align="center" class="img-container center  autowidth  fullwidth " style="padding-right: 0px;  padding-left: 10px;">
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 10px;" align="center"><![endif]-->
   <img class="center  autowidth  fullwidth" align="center" border="0" src="<?php the_field('spotlight_article_image'); ?>" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: 0;height: auto;float: none;width: 100%;max-width: 630px" width="630">
 <!--[if mso]></td></tr></table><![endif]-->
 </div>
 
-                  
-                  
+
+
                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 20px; padding-left: 10px; padding-top: 30px; padding-bottom: 10px;"><![endif]-->
-<div style="color:#989898;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 20px; padding-left: 10px; padding-top: 1px; padding-bottom: 10px;">  
-  <div style="font-size:18px;line-height:31px;color:#555555;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="text-decoration: none !important;margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><span style="font-size: 18px; line-height: 31px;"><?php the_field('spotlight_article_text'); ?></span></span></p></div> 
+<div style="color:#989898;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 20px; padding-left: 10px; padding-top: 1px; padding-bottom: 10px;">
+  <div style="font-size:18px;line-height:31px;color:#555555;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="text-decoration: none !important;margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><span style="font-size: 18px; line-height: 31px;"><?php the_field('spotlight_article_text'); ?></span></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
-                  
-                  
-                    
+
+
+
 <div align="left" class="button-container left" style="padding-right: 0px; padding-left: 10px; padding-top:1px; padding-bottom:25px;">
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="padding-right: 0px; padding-left: 10px; padding-top:30px; padding-bottom:25px;" align="left"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<?php the_field('spotlight_button_link'); ?>" style="height:24pt; v-text-anchor:middle; width:96pt;" arcsize="13%" strokecolor="#195DA9" fillcolor="#195DA9"><w:anchorlock/><v:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:16px;"><![endif]-->
     <div style="color: #ffffff; background-color: #195DA9; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; max-width: 128px; width: 108px;width: auto; border-top: 0px solid transparent; border-right: 0px solid transparent; border-bottom: 0px solid transparent; border-left: 0px solid transparent; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none;">
@@ -367,9 +367,9 @@ a[x-apple-data-detectors=true] {
   <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
 </div>
 
-                  
-                  
-                    
+
+
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="divider " style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
     <tbody>
         <tr style="vertical-align: top">
@@ -387,33 +387,33 @@ a[x-apple-data-detectors=true] {
         </tr>
     </tbody>
 </table>
-                  
-                  
+
+
                     <div class="">
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 15px;"><![endif]-->
-  <div style="color:#195DA9;line-height:120%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 15px;">  
-    <div style="font-size:12px;line-height:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#195DA9;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><strong><span style="font-size: 38px; line-height: 45px;">ICT Trends</span></strong></p></div>  
+  <div style="color:#195DA9;line-height:120%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 15px;">
+    <div style="font-size:12px;line-height:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#195DA9;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><strong><span style="font-size: 38px; line-height: 45px;">ICT Trends</span></strong></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
 </div>
-                  
-                  
+
+
                     <div align="center" class="img-container center  autowidth  fullwidth " style="padding-right: 0px;  padding-left: 10px;">
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 10px;" align="center"><![endif]-->
   <img class="center  autowidth  fullwidth" align="center" border="0" src="<?php the_field('first_ict_trends_image'); ?>" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: 0;height: auto;float: none;width: 100%;max-width: 630px" width="630">
 <!--[if mso]></td></tr></table><![endif]-->
 </div>
 
-                  
-                  
+
+
                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 20px; padding-left: 10px; padding-top: 30px; padding-bottom: 10px;"><![endif]-->
-<div style="color:#989898;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 20px; padding-left: 10px; padding-top: 1px; padding-bottom: 10px;">  
-  <div style="font-size:18px;line-height:31px;color:#555555;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="text-decoration: none !important;margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><span style="font-size: 18px; line-height: 31px;"><?php the_field('trends_first_article_text'); ?></span></span></p></div> 
+<div style="color:#989898;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 20px; padding-left: 10px; padding-top: 1px; padding-bottom: 10px;">
+  <div style="font-size:18px;line-height:31px;color:#555555;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="text-decoration: none !important;margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><span style="font-size: 18px; line-height: 31px;"><?php the_field('trends_first_article_text'); ?></span></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
-                  
-                  
-                    
+
+
+
 <div align="left" class="button-container left" style="padding-right: 0px; padding-left: 10px; padding-top:1px; padding-bottom:25px;">
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="padding-right: 0px; padding-left: 10px; padding-top:30px; padding-bottom:25px;" align="left"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<?php the_field('first_trends_button_link'); ?>" style="height:24pt; v-text-anchor:middle; width:96pt;" arcsize="13%" strokecolor="#195DA9" fillcolor="#195DA9"><w:anchorlock/><v:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:16px;"><![endif]-->
     <div style="color: #ffffff; background-color: #195DA9; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; max-width: 128px; width: 108px;width: auto; border-top: 0px solid transparent; border-right: 0px solid transparent; border-bottom: 0px solid transparent; border-left: 0px solid transparent; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none;">
@@ -422,24 +422,24 @@ a[x-apple-data-detectors=true] {
   <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
 </div>
 
-                  
-                  
+
+
                     <div align="center" class="img-container center  autowidth  fullwidth " style="padding-top:50px;padding-right: 0px;  padding-left: 10px;">
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-top:40px;padding-right: 0px; padding-left: 10px;" align="center"><![endif]-->
   <img class="center  autowidth  fullwidth" align="center" border="0" src="<?php the_field('second_ict_trends_image'); ?>" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: 0;height: auto;float: none;width: 100%;max-width: 630px" width="630">
 <!--[if mso]></td></tr></table><![endif]-->
 </div>
 
-                  
-                  
+
+
                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 20px; padding-left: 0px; padding-top: 30px; padding-bottom: 10px;"><![endif]-->
-<div style="color:#989898;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 20px; padding-left: 10px; padding-top: 1px; padding-bottom: 10px;">  
-  <div style="font-size:18px;line-height:31px;color:#555555;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="text-decoration: none !important;margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><span style="font-size: 18px; line-height: 31px;"><?php the_field('trends_second_article_text'); ?></span></span></p></div> 
+<div style="color:#989898;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 20px; padding-left: 10px; padding-top: 1px; padding-bottom: 10px;">
+  <div style="font-size:18px;line-height:31px;color:#555555;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="text-decoration: none !important;margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><span style="font-size: 18px; line-height: 31px;"><?php the_field('trends_second_article_text'); ?></span></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
-                  
-                  
-                    
+
+
+
 <div align="left" class="button-container left" style="padding-right: 0px; padding-left: 10px; padding-top:1px; padding-bottom:25px;margin-bottom:20px;">
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="margin-bottom:20px;padding-right: 0px; padding-left: 0px; padding-top:30px; padding-bottom:25px;" align="left"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<?php the_field('second_trends_button_link'); ?>" style="height:24pt; v-text-anchor:middle; width:96pt;" arcsize="13%" strokecolor="#195DA9" fillcolor="#195DA9"><w:anchorlock/><v:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:16px;"><![endif]-->
     <div style="color: #ffffff; background-color: #195DA9; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; max-width: 128px; width: 108px;width: auto; border-top: 0px solid transparent; border-right: 0px solid transparent; border-bottom: 0px solid transparent; border-left: 0px solid transparent; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none;">
@@ -448,7 +448,7 @@ a[x-apple-data-detectors=true] {
   <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
 </div>
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -470,15 +470,15 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:40px; padding-bottom:50px; padding-right: 0px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
          <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 25px;"><![endif]-->
-<div style="color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 25px;">  
-  <div style="font-size:12px;line-height:14px;color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 34px; line-height: 40px;"><strong><span style="line-height: 40px; font-size: 34px;">Featured Video</span></strong></span></p></div>  
+<div style="color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 25px;">
+  <div style="font-size:12px;line-height:14px;color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 34px; line-height: 40px;"><strong><span style="line-height: 40px; font-size: 34px;">Featured Video</span></strong></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
-                  
-                  
+
+
                     <div align="right" class="img-container right  autowidth  fullwidth" style="padding-right: 0px;  padding-left: 0px;">
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px;" align="right"><![endif]-->
   <a href="<?php the_field('featured_video_link'); ?>" target="_blank">
@@ -487,7 +487,7 @@ a[x-apple-data-detectors=true] {
 <!--[if mso]></td></tr></table><![endif]-->
 </div>
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -504,7 +504,7 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:30px; padding-bottom:10px; padding-right: 0px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
                     <table border="0" cellpadding="0" cellspacing="0" width="100%" class="divider" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
     <tbody>
         <tr style="vertical-align: top">
@@ -522,15 +522,15 @@ a[x-apple-data-detectors=true] {
         </tr>
     </tbody>
 </table>
-                  
-                  
+
+
          <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 5px; padding-bottom: 1px;"><![endif]-->
-<div style="color:#215EAC;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 0px; padding-top: 5px; padding-bottom: 1px;"> 
-  <div style="font-size:12px;line-height:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#215EAC;text-align:left;"><p style="margin: 0;font-size: 12px;line-height: 14px"><span style="line-height: 40px; font-size: 34px;"><strong><span style="line-height: 40px; font-size: 34px;"><span style="line-height: 40px; font-size: 34px;">More ICT Trends</span></span></strong></span><span style="font-size: 36px; line-height: 43px;"><strong><span style="line-height: 43px; font-size: 36px;"><br></span></strong></span><span style="font-size: 24px; line-height: 28px;"></span></p></div>  
+<div style="color:#215EAC;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 0px; padding-top: 5px; padding-bottom: 1px;">
+  <div style="font-size:12px;line-height:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#215EAC;text-align:left;"><p style="margin: 0;font-size: 12px;line-height: 14px"><span style="line-height: 40px; font-size: 34px;"><strong><span style="line-height: 40px; font-size: 34px;"><span style="line-height: 40px; font-size: 34px;">More ICT Trends</span></span></strong></span><span style="font-size: 36px; line-height: 43px;"><strong><span style="line-height: 43px; font-size: 36px;"><br></span></strong></span><span style="font-size: 24px; line-height: 28px;"></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -547,15 +547,15 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:1px; padding-bottom:5px; padding-right: 25px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('third_ict_trends_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('third_ict_trends_article'); ?></span></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
 
-                  
-                    
+
+
 <div align="left" class="button-container left" style="padding-right: 0px; padding-left: 0px; padding-top:10px; padding-bottom:25px;">
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:30px; padding-bottom:25px;" align="left"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<?php the_field('third_trends_button_link'); ?>" style="height:24pt; v-text-anchor:middle; width:96pt;" arcsize="13%" strokecolor="#195DA9" fillcolor="#195DA9"><w:anchorlock/><v:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:16px;"><![endif]-->
     <div style="color: #ffffff; background-color: #195DA9; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; max-width: 128px; width: 108px;width: auto; border-top: 0px solid transparent; border-right: 0px solid transparent; border-bottom: 0px solid transparent; border-left: 0px solid transparent; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none;">
@@ -564,7 +564,7 @@ a[x-apple-data-detectors=true] {
   <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
 </div>
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -573,16 +573,16 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:5px; padding-bottom:30px; padding-right: 10px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
 
        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('fourth_ict_trends_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('fourth_ict_trends_article'); ?></span></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
 
-                  
-                    
+
+
 <div align="left" class="button-container left" style="padding-right: 0px; padding-left: 0px; padding-top:10px; padding-bottom:0px;">
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:30px; padding-bottom:0px;" align="left"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<?php the_field('fourth_trends_button_link'); ?>" style="height:24pt; v-text-anchor:middle; width:96pt;" arcsize="13%" strokecolor="#195DA9" fillcolor="#195DA9"><w:anchorlock/><v:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:16px;"><![endif]-->
     <div style="color: #ffffff; background-color: #195DA9; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; max-width: 128px; width: 108px;width: auto; border-top: 0px solid transparent; border-right: 0px solid transparent; border-bottom: 0px solid transparent; border-left: 0px solid transparent; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none;">
@@ -591,7 +591,7 @@ a[x-apple-data-detectors=true] {
   <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
 </div>
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -608,13 +608,13 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:15px; padding-bottom:50px; padding-right: 20px; padding-left: 10px;"><!--<![endif]-->
 
-     
+
         <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('fifth_ict_trends_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('fifth_ict_trends_article'); ?></span></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
-       
+
 <div align="left" class="button-container left" style="padding-right: 0px; padding-left: 0px; padding-top:10px; padding-bottom:0px;">
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:30px; padding-bottom:0px;" align="left"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<?php the_field('fifth_trends_button_link'); ?>" style="height:24pt; v-text-anchor:middle; width:96pt;" arcsize="13%" strokecolor="#195DA9" fillcolor="#195DA9"><w:anchorlock/><v:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:16px;"><![endif]-->
     <div style="color: #ffffff; background-color: #195DA9; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; max-width: 128px; width: 108px;width: auto; border-top: 0px solid transparent; border-right: 0px solid transparent; border-bottom: 0px solid transparent; border-left: 0px solid transparent; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none;">
@@ -623,7 +623,7 @@ a[x-apple-data-detectors=true] {
   <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
 </div>
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -635,13 +635,13 @@ a[x-apple-data-detectors=true] {
 
 
           <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('sixth_ict_trends_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('sixth_ict_trends_article'); ?></span></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
-                  
 
-                    
+
+
 <div align="left" class="button-container left" style="padding-right: 0px; padding-left: 0px; padding-top:10px; padding-bottom:0px;">
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top:30px; padding-bottom:0px;" align="left"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="<?php the_field('sixth_trends_button_link'); ?>" style="height:24pt; v-text-anchor:middle; width:96pt;" arcsize="13%" strokecolor="#195DA9" fillcolor="#195DA9"><w:anchorlock/><v:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:16px;"><![endif]-->
     <div style="color: #ffffff; background-color: #195DA9; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; max-width: 128px; width: 108px;width: auto; border-top: 0px solid transparent; border-right: 0px solid transparent; border-bottom: 0px solid transparent; border-left: 0px solid transparent; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-align: center; mso-border-alt: none;">
@@ -650,7 +650,7 @@ a[x-apple-data-detectors=true] {
   <!--[if mso]></center></v:textbox></v:roundrect></td></tr></table><![endif]-->
 </div>
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -667,14 +667,14 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid #E8E8E8; border-right: 0px solid transparent; padding-top:20px; padding-bottom:20px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
 
-                  
+
                     <div align="center" class="img-container center  autowidth  fullwidth" style="padding-right: 20px;  padding-left: 20px;">
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 20px; padding-left: 20px;" align="center"><![endif]-->
 <div style="line-height:20px;font-size:1px">&#160;</div>  <a href="<?php the_field('first_advert_button_link'); ?>"> <img class="center  autowidth  fullwidth" align="center" border="0" src="<?php the_field('first_advert_image'); ?>" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: 0;height: auto;float: none;width: 100%;max-width: 180px" width="180"></a>
 <div style="line-height:20px;font-size:1px">&#160;</div><!--[if mso]></td></tr></table><![endif]-->
 </div>
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -683,23 +683,23 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:20px; padding-bottom:25px; padding-right: 0px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 60px; padding-left: 10px; padding-top: 20px; padding-bottom: 10px;"><![endif]-->
-<div style="color:#215EAC;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 60px; padding-left: 10px; padding-top: 20px; padding-bottom: 10px;">  
-  <div style="line-height:14px;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#215EAC;text-align:left;"><p style="margin: 0;line-height: 14px;font-size: 12px"><span style="font-size: 30px; line-height: 36px;"><strong><?php the_field('advert_title'); ?></strong></span></p></div> 
+<div style="color:#215EAC;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 60px; padding-left: 10px; padding-top: 20px; padding-bottom: 10px;">
+  <div style="line-height:14px;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#215EAC;text-align:left;"><p style="margin: 0;line-height: 14px;font-size: 12px"><span style="font-size: 30px; line-height: 36px;"><strong><?php the_field('advert_title'); ?></strong></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
-                  
-                  
+
+
        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"><![endif]-->
-<div style="color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 15px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"> 
-  <div style="font-size:12px;line-height:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#fff;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 22px; line-height: 26px;"><?php the_field('advert_text'); ?></span></p></div> 
+<div style="color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 15px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;">
+  <div style="font-size:12px;line-height:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#fff;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 22px; line-height: 26px;"><?php the_field('advert_text'); ?></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -716,7 +716,7 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:30px; padding-bottom:10px; padding-right: 0px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
                     <table border="0" cellpadding="0" cellspacing="0" width="100%" class="divider" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
     <tbody>
         <tr style="vertical-align: top">
@@ -734,15 +734,15 @@ a[x-apple-data-detectors=true] {
         </tr>
     </tbody>
 </table>
-                  
-                  
+
+
          <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 5px;"><![endif]-->
-<div style="color:#195DA9;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 5px;"> 
-  <div style="font-size:18px;line-height:26px;color:#195DA9;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 34px; line-height: 40px;"><strong><span style="line-height: 40px; font-size: 34px;">In case you missed it</span></strong></span></p></div>  
+<div style="color:#195DA9;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 5px;">
+  <div style="font-size:18px;line-height:26px;color:#195DA9;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 34px; line-height: 40px;"><strong><span style="line-height: 40px; font-size: 34px;">In case you missed it</span></strong></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -759,14 +759,14 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:1px; padding-bottom:1px; padding-right: 25px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('missed_it_first_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('missed_it_first_article'); ?></span></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -776,12 +776,12 @@ a[x-apple-data-detectors=true] {
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:0px; padding-bottom:5px; padding-right: 10px; padding-left: 10px;"><!--<![endif]-->
 
          <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('missed_it_second_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('missed_it_second_article'); ?></span></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
-                  
-                  
+
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -798,14 +798,14 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:1px; padding-bottom:1px; padding-right: 20px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('missed_it_third_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('missed_it_third_article'); ?></span></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -816,19 +816,19 @@ a[x-apple-data-detectors=true] {
 
 
                    <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('missed_it_fourth_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('missed_it_fourth_article'); ?></span></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
 
-                                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
           <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
         </div>
       </div>
-    </div>   
+    </div>
    <div style="background-color:transparent;">
       <div style="Margin: 0 auto;min-width: 320px;max-width: 660px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;" class="block-grid ">
         <div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
@@ -839,7 +839,7 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:1px; padding-bottom:10px; padding-right: 0px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
                     <table border="0" cellpadding="0" cellspacing="0" width="100%" class="divider" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
     <tbody>
         <tr style="vertical-align: top">
@@ -857,15 +857,15 @@ a[x-apple-data-detectors=true] {
         </tr>
     </tbody>
 </table>
-                  
-                  
+
+
         <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 5px;"><![endif]-->
-<div style="color:#195DA9;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 5px;"> 
-  <div style="font-size:12px;line-height:14px;color:#195DA9;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 34px; line-height: 40px;"><strong><span style="line-height: 40px; font-size: 34px;">Insights</span></strong></span></p></div>  
+<div style="color:#195DA9;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 5px;">
+  <div style="font-size:12px;line-height:14px;color:#195DA9;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 34px; line-height: 40px;"><strong><span style="line-height: 40px; font-size: 34px;">Insights</span></strong></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -882,15 +882,15 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:0px; padding-bottom:1px; padding-right: 0px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
 
        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 20px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('first_insight_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 20px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('first_insight_article'); ?></span></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -901,13 +901,13 @@ a[x-apple-data-detectors=true] {
 
 
          <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('second_insight_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('second_insight_article'); ?></span></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
 
-                  
-                
+
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -925,12 +925,12 @@ a[x-apple-data-detectors=true] {
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:0px; padding-bottom:0px; padding-right: 20px; padding-left: 10px;"><!--<![endif]-->
 
          <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('third_insight_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('third_insight_article'); ?></span></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -940,12 +940,12 @@ a[x-apple-data-detectors=true] {
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:0px; padding-bottom:20px; padding-right: 0px; padding-left: 10px;"><!--<![endif]-->
 
            <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('fourth_insight_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('fourth_insight_article'); ?></span></p></div>
   </div>
   <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -962,14 +962,14 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid #E8E8E8; border-right: 0px solid transparent; padding-top:30px; padding-bottom:30px; padding-right: 10px; padding-left: 20px;"><!--<![endif]-->
 
-                  
+
                     <div align="center" class="img-container center  autowidth  fullwidth" style="padding-right: 0px;  padding-left: 0px;">
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px;" align="center"><![endif]-->
   <a href="<?php the_field('second_advert_button_link'); ?>"><img class="center  autowidth  fullwidth" align="center" border="0" src="<?php the_field('second_advert_image'); ?>" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: 0;height: auto;float: none;width: 100%;max-width: 190px" width="190"></a>
 <!--[if mso]></td></tr></table><![endif]-->
 </div>
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -978,25 +978,25 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:25px; padding-bottom:30px; padding-right: 35px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
         <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"><![endif]-->
-<div style="color:#215EAC;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"> 
-  <div style="line-height:14px;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#215EAC;text-align:left;"><p style="margin: 0;line-height: 14px;font-size: 12px"><span style="font-size: 30px; line-height: 36px;"><strong><span style="line-height: 36px; font-size: 30px;"><span style="line-height: 36px; font-size: 30px;"><?php the_field('second_advert_title'); ?></span></span></strong></span><span style="font-size: 48px; line-height: 57px;"><strong><br></strong></span></p></div> 
+<div style="color:#215EAC;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;">
+  <div style="line-height:14px;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#215EAC;text-align:left;"><p style="margin: 0;line-height: 14px;font-size: 12px"><span style="font-size: 30px; line-height: 36px;"><strong><span style="line-height: 36px; font-size: 30px;"><span style="line-height: 36px; font-size: 30px;"><?php the_field('second_advert_title'); ?></span></span></strong></span><span style="font-size: 48px; line-height: 57px;"><strong><br></strong></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
-                  
-                  
+
+
         <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 15px; padding-left: 10px; padding-top: 10px; padding-bottom: 20px;"><![endif]-->
-<div style="color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 15px; padding-left: 10px; padding-top: 10px; padding-bottom: 20px;"> 
-  <div style="font-size:12px;line-height:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#fff;text-align:left;"><span style="font-size:22px; line-height:26px;"><?php the_field('second_advert_text'); ?></span></div> 
+<div style="color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 15px; padding-left: 10px; padding-top: 10px; padding-bottom: 20px;">
+  <div style="font-size:12px;line-height:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#fff;text-align:left;"><span style="font-size:22px; line-height:26px;"><?php the_field('second_advert_text'); ?></span></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
-                  
 
 
-                  
+
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -1014,12 +1014,12 @@ a[x-apple-data-detectors=true] {
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:0px; padding-bottom:15px; padding-right: 0px; padding-left: 10px;"><!--<![endif]-->
 
        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('more_from_itu_first_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('more_from_itu_first_article'); ?></span></p></div>
   </div>
-  <!--[if mso]></td></tr></table><![endif]-->                 
+  <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -1029,13 +1029,13 @@ a[x-apple-data-detectors=true] {
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:0px; padding-bottom:5px; padding-right: 10px; padding-left: 10px;"><!--<![endif]-->
 
               <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('more_from_second_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('more_from_second_article'); ?></span></p></div>
   </div>
-  <!--[if mso]></td></tr></table><![endif]-->  
+  <!--[if mso]></td></tr></table><![endif]-->
 
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -1053,12 +1053,12 @@ a[x-apple-data-detectors=true] {
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:0px; padding-bottom:0px; padding-right: 10px; padding-left: 10px;"><!--<![endif]-->
 
            <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('more_from_third_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('more_from_third_article'); ?></span></p></div>
   </div>
-  <!--[if mso]></td></tr></table><![endif]-->                   
+  <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -1068,11 +1068,11 @@ a[x-apple-data-detectors=true] {
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:0px; padding-bottom:20px; padding-right: 0px; padding-left: 10px;"><!--<![endif]-->
 
        <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('more_from_fourth_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('more_from_fourth_article'); ?></span></p></div>
   </div>
-  <!--[if mso]></td></tr></table><![endif]-->                           
-                  
+  <!--[if mso]></td></tr></table><![endif]-->
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -1089,7 +1089,7 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:30px; padding-bottom:0px; padding-right: 0px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
                     <table border="0" cellpadding="0" cellspacing="0" width="100%" class="divider" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
     <tbody>
         <tr style="vertical-align: top">
@@ -1107,15 +1107,15 @@ a[x-apple-data-detectors=true] {
         </tr>
     </tbody>
 </table>
-                  
-                  
+
+
     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 5px;"><![endif]-->
-<div style="color:#195DA9;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 5px;"> 
-  <div style="font-size:18px;line-height:26px;color:#195DA9;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 34px; line-height: 40px;"><strong><span style="line-height: 40px; font-size: 34px;">Keep up to date with ITU</span></strong></span></p></div>  
+<div style="color:#195DA9;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 5px;">
+  <div style="font-size:18px;line-height:26px;color:#195DA9;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 34px; line-height: 40px;"><strong><span style="line-height: 40px; font-size: 34px;">Keep up to date with ITU</span></strong></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -1133,12 +1133,12 @@ a[x-apple-data-detectors=true] {
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid #E8E8E8; border-right: 0px solid transparent; padding-top:1px; padding-bottom:0px; padding-right: 20px; padding-left: 10px;"><!--<![endif]-->
 
          <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('keep_up_to_date_first_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('keep_up_to_date_first_article'); ?></span></p></div>
   </div>
-  <!--[if mso]></td></tr></table><![endif]-->                     
+  <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -1148,13 +1148,13 @@ a[x-apple-data-detectors=true] {
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:5px; padding-bottom:0px; padding-right: 0px; padding-left: 10px;"><!--<![endif]-->
 
           <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('keep_up_to_date_second_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('keep_up_to_date_second_article'); ?></span></p></div>
   </div>
-  <!--[if mso]></td></tr></table><![endif]-->                     
+  <!--[if mso]></td></tr></table><![endif]-->
 
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -1172,13 +1172,13 @@ a[x-apple-data-detectors=true] {
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:1px; padding-bottom:5px; padding-right: 20px; padding-left: 10px;"><!--<![endif]-->
 
                                                              <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('keep_up_to_date_third_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('keep_up_to_date_third_article'); ?></span></p></div>
   </div>
-  <!--[if mso]></td></tr></table><![endif]-->                    
+  <!--[if mso]></td></tr></table><![endif]-->
 
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -1187,15 +1187,15 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:15px; padding-bottom:1px; padding-right: 0px; padding-left: 10px;"><!--<![endif]-->
 
-                  
+
                                                              <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">  
-    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('keep_up_to_date_fourth_article'); ?></span></p></div> 
+  <div style="color:#555555;line-height:150%;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; padding-right: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px;">
+    <div style="font-size:18px;line-height:31px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 18px;line-height: 31px"><span style="font-size: 18px; line-height: 31px;"><?php the_field('keep_up_to_date_fourth_article'); ?></span></p></div>
   </div>
-  <!--[if mso]></td></tr></table><![endif]-->       
+  <!--[if mso]></td></tr></table><![endif]-->
 
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -1212,7 +1212,7 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:20px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
 
-                  
+
                     <table border="0" cellpadding="0" cellspacing="0" width="100%" class="divider" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
     <tbody>
         <tr style="vertical-align: top">
@@ -1230,8 +1230,8 @@ a[x-apple-data-detectors=true] {
         </tr>
     </tbody>
 </table>
-                  
-                  
+
+
                     <div align="left" class="img-container left fixedwidth" style="padding-right: 0px;  padding-left: 10px;">
 <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 0px; padding-left: 10px;" align="left"><![endif]-->
   <a href="http://news.itu.int/" target="_blank">
@@ -1240,7 +1240,7 @@ a[x-apple-data-detectors=true] {
 <div style="line-height:15px;font-size:1px">&#160;</div><!--[if mso]></td></tr></table><![endif]-->
 </div>
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -1257,8 +1257,8 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
 
-                  
-                    
+
+
 <div align="left" style="padding-right: 0px; padding-left: 5px; padding-bottom: 10px;">
   <div style="display: table; max-width:400px;">
   <!--[if (mso)|(IE)]><table width="317" cellpadding="0" cellspacing="0" border="0"><tr><td style="border-collapse:collapse; padding-right: 0px; padding-left: 5px; padding-bottom: 10px;"  align="left"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:317px;"><tr><td width="32" style="width:32px; padding-right: 20px;" valign="top"><![endif]-->
@@ -1318,7 +1318,7 @@ a[x-apple-data-detectors=true] {
     <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
   </div>
 </div>
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>
@@ -1335,22 +1335,22 @@ a[x-apple-data-detectors=true] {
               <div style="background-color: transparent; width: 100% !important;">
               <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:30px; padding-bottom:60px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
 
-                  
+
                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 20px; padding-left: 10px; padding-top: 0px; padding-bottom: 0px;"><![endif]-->
-<div style="color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 20px; padding-left: 10px; padding-top: 0px; padding-bottom: 0px;"> 
-  <div style="font-size:12px;line-height:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#fff;text-align:left;"><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: left"><span style="font-size: 10px; line-height: 12px;"><strong><span style="line-height: 12px; font-size: 10px;"><a style="color:white;text-decoration: none !important;" href="https://news.itu.int/newsletter-latest/feb132018/">View as a Web Page</a></span></strong></span></p><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: left"><span style="font-size: 10px; line-height: 12px;"><strong><span style="line-height: 12px; font-size: 10px;">&#160;</span></strong></span><br></p><p style="margin: 0;line-height: 14px;font-size: 12px;text-align: left"><span style="font-size: 12px; line-height: 14px;"><strong><span style="line-height: 14px; font-size: 12px;">Know someone who would like this newsletter? Send them to <span style="color: rgb(255, 255, 255); background-color: rgb(51, 102, 255); font-size: 12px; line-height: 14px;"><a style="color:#215EAC;color:#215EAC;color:#215EAC;text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(51, 102, 255);" href="https://news.itu.int/CNQHY" target="_blank" rel="noopener">news.itu.int/subscribe﻿</a></span></span></strong></span></p><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: left">&#160;<br></p><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: left"><span style="font-size: 10px; line-height: 12px;"><strong><span style="line-height: 12px; font-size: 10px;">Please do not reply to this email.</span></strong></span><span style="font-size: 10px; line-height: 15px;"><strong><span style="line-height: 12px; font-size: 10px;">&#160;</span></strong></span><br></p><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: left"><span style="font-size: 10px; line-height: 12px;"><strong><span style="line-height: 12px; font-size: 10px;"><span style="line-height: 12px; font-size: 10px;"> <span style="color: rgb(255, 255, 255); background-color: rgb(51, 102, 255); font-size: 12px; line-height: 14px;"><a style="color:#215EAC;color:#215EAC;color:#215EAC;text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(51, 102, 255);" href="https://www.itu.int/sap(bD1lbiZjPTAxMA==)/bc/bsp/sap/crm_svy_public/survey.htm?applid=CRM_SURVEY_MARKETING&svyid=UNSUBSCRIBE%20ITUNEWSLETTER%20WEEKLY&vers=0000000007&lang=EN&parid=CRM_SVY_BSP_SYSTEMPARAM_PUBLIC_ITU_CRP_010.XML##" target="_blank" rel="noopener">unsubscribe&#160;</a></span>from future ITU News emails</span></span></strong></span><br></p></div>  
+<div style="color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 20px; padding-left: 10px; padding-top: 0px; padding-bottom: 0px;">
+  <div style="font-size:12px;line-height:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#fff;text-align:left;"><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: left"><span style="font-size: 10px; line-height: 12px;"><strong><span style="line-height: 12px; font-size: 10px;"><a style="color:white;text-decoration: none !important;" href="https://news.itu.int/newsletter-latest/feb132018/">View as a Web Page</a></span></strong></span></p><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: left"><span style="font-size: 10px; line-height: 12px;"><strong><span style="line-height: 12px; font-size: 10px;">&#160;</span></strong></span><br></p><p style="margin: 0;line-height: 14px;font-size: 12px;text-align: left"><span style="font-size: 12px; line-height: 14px;"><strong><span style="line-height: 14px; font-size: 12px;">Know someone who would like this newsletter? Send them to <span style="color: rgb(255, 255, 255); background-color: rgb(51, 102, 255); font-size: 12px; line-height: 14px;"><a style="color:#215EAC;color:#215EAC;color:#215EAC;text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(51, 102, 255);" href="https://news.itu.int/CNQHY" target="_blank" rel="noopener">news.itu.int/subscribe﻿</a></span></span></strong></span></p><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: left">&#160;<br></p><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: left"><span style="font-size: 10px; line-height: 12px;"><strong><span style="line-height: 12px; font-size: 10px;">Please do not reply to this email.</span></strong></span><span style="font-size: 10px; line-height: 15px;"><strong><span style="line-height: 12px; font-size: 10px;">&#160;</span></strong></span><br></p><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: left"><span style="font-size: 10px; line-height: 12px;"><strong><span style="line-height: 12px; font-size: 10px;"><span style="line-height: 12px; font-size: 10px;"> <span style="color: rgb(255, 255, 255); background-color: rgb(51, 102, 255); font-size: 12px; line-height: 14px;"><a style="color:#215EAC;color:#215EAC;color:#215EAC;text-decoration: none; color: rgb(255, 255, 255); background-color: rgb(51, 102, 255);" href="https://www.itu.int/sap(bD1lbiZjPTAxMA==)/bc/bsp/sap/crm_svy_public/survey.htm?applid=CRM_SURVEY_MARKETING&svyid=UNSUBSCRIBE%20ITUNEWSLETTER%20WEEKLY&vers=0000000007&lang=EN&parid=CRM_SVY_BSP_SYSTEMPARAM_PUBLIC_ITU_CRP_010.XML##" target="_blank" rel="noopener">unsubscribe&#160;</a></span>from future ITU News emails</span></span></strong></span><br></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
-                  
-                  
+
+
                     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 20px; padding-left: 10px; padding-top: 15px; padding-bottom: 0px;"><![endif]-->
-<div style="color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 20px; padding-left: 10px; padding-top: 15px; padding-bottom: 0px;">  
-  <div style="font-size:12px;line-height:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#fff;text-align:left;"><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: left"><span style="font-size: 10px; line-height: 12px;"><strong>ITU News brings you the latest tech trends impacting industry, policy, and economic development, especially in emerging markets. We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and we will not provide your personal information to any third party individual, government agency, or company at any time unless compelled to do so by law. We will use your e-mail address solely to provide timely ITU News Updates. ITU will maintain the information you send via e-mail in accordance with applicable law. Our site provides users the opportunity to opt-out of receiving communications from us by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at anytime. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in this e-mail.</strong></span></p></div> 
+<div style="color:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:120%; padding-right: 20px; padding-left: 10px; padding-top: 15px; padding-bottom: 0px;">
+  <div style="font-size:12px;line-height:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#fff;text-align:left;"><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: left"><span style="font-size: 10px; line-height: 12px;"><strong>ITU News brings you the latest tech trends impacting industry, policy, and economic development, especially in emerging markets. We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and we will not provide your personal information to any third party individual, government agency, or company at any time unless compelled to do so by law. We will use your e-mail address solely to provide timely ITU News Updates. ITU will maintain the information you send via e-mail in accordance with applicable law. Our site provides users the opportunity to opt-out of receiving communications from us by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at anytime. Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in this e-mail.</strong></span></p></div>
 </div>
 <!--[if mso]></td></tr></table><![endif]-->
 
-                  
+
               <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
               </div>
             </div>

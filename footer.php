@@ -7,21 +7,21 @@
     <div class="col l7"> <!--IND: create a column 7/12th the width of the parent container only on desktop (desktop is targeted by 'l' before the number 7 as in 'l7'-->
         <div class="row"> <!--IND: create another row -->
         <div class="col l4"> <!--IND: create another column that is 4/12th in width on desktop, the total columns must be equal to 12, here 'col l4'x3 -->
-             <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimga z-depth-3" srcset="<?php echo get_template_directory_uri() . '/media/mag3.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/mag3.jpg'; ?>"></a> <!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimga class to modify magazine cover CSS and animation -->
+             <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimga z-depth-3" srcset="<?php echo get_template_directory_uri() . '/media/mag2.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/mag2.jpg'; ?>"></a> <!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimga class to modify magazine cover CSS and animation -->
         </div>
               <div class="col l4"><!--IND: create another column that is 4/12th in width on desktop -->
-              <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimgb z-depth-3" srcset="<?php echo get_template_directory_uri() . '/media/mag2.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/mag2.jpg'; ?>"></a><!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimgb class to modify magazine cover CSS and animation -->
+              <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimgb z-depth-3" srcset="<?php echo get_template_directory_uri() . '/media/mag1.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/mag1.jpg'; ?>"></a><!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimgb class to modify magazine cover CSS and animation -->
         </div>
               <div class="col l4"><!--IND: create another column that is 4/12th in width on desktop -->
-             <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimgc z-depth-3" srcset="<?php echo get_template_directory_uri() . '/media/mag1.jpg'; ?>" src="   <?php echo get_template_directory_uri() . '/media/mag1.jpg'; ?>"></a><!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimgc class to modify magazine cover CSS and animation -->
+             <a href="http://www.itu.int/en/itunews/Pages/default.aspx"><img class="hide-on-med-and-down magimgc z-depth-3" srcset="<?php echo get_template_directory_uri() . '/media/mag3.jpg'; ?>" src="   <?php echo get_template_directory_uri() . '/media/mag3.jpg'; ?>"></a><!--IND: insert hyperlink to itu magazine page, hide the magazine cover on medium size and below devices, add drop shadow effect with z-depth, retrieve theme root directory, refer to magimgc class to modify magazine cover CSS and animation -->
         </div>
-        
+
         </div>
-     
 
 
-       
-       
+
+
+
        </div>
        <a href="http://www.itu.int/en/itunews/Pages/default.aspx"> <!--IND: link to the magazine page -->
        <div class="col l5 s12"> <!--IND: create a column occupying 5/12 columns on desktop and transform to full width (12/12 columns) on mobile devices -->
@@ -29,17 +29,17 @@
             <div>
             <img class="maglogo" srcset="<?php echo get_template_directory_uri() . '/media/magfoot.svg'; ?>" src="<?php echo get_template_directory_uri() . '/media/magfoot.svg'; ?>">
             </div>
-            <!--IND: apply class maglogo, get root directory URI, add to relative path of the SVG, use src fallback if browser is unable to support newer responsive srcset --> 
+            <!--IND: apply class maglogo, get root directory URI, add to relative path of the SVG, use src fallback if browser is unable to support newer responsive srcset -->
 
             <div class="footeradvb">Available in six languages</div>
             <div id="topicsscroll"><!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
             <img class="langlogo hide-on-med-and-down" srcset="<?php echo get_template_directory_uri() . '/media/magfoot2.svg'; ?>" src="<?php echo get_template_directory_uri() . '/media/magfoot2.svg'; ?>">
             <!--IND: get root directory, add to relative link to languages SVG image and display it, hiding on medium and mobile devices -->
             </div>
-       
-       
+
+
        </div></a>
-    
+
     </div>
 </div>
 </div>
@@ -67,7 +67,7 @@
                   <a href="http://news.itu.int/category/et/connected-car/"><h6 style="font-family:avenirlight;!important;color:#fff;">Connected Car</h6></a>
 
                 <a href="http://news.itu.int/category/et/digital-finance/"><h6 style="font-family:avenirlight;!important;color:#fff;">Digital Finance</h6></a>
-             
+
               <a href="http://news.itu.int/category/et/digital-tv/"><h6 style="font-family:avenirlight;!important;color:#fff;">Digital TV</h6></a>
 
                   <a href="http://news.itu.int/category/et/iot/"><h6 style="font-family:avenirlight;!important;color:#fff;">IoT</h6></a>
@@ -79,41 +79,41 @@
        <a href="http://news.itu.int/category/et/smart-cities/"><h6 style="font-family:avenirlight;!important;color:#fff;">Smart Cities</h6></a>
 
              <a href="http://news.itu.int/category/et/smesentrepreneurship/"><h6 style="font-family:avenirlight;!important;color:#fff;">SMEs/Entrepreneurship</h6></a>
-           
-         
+
+
              <a href="http://news.itu.int/category/et/vrar/"><h6 style="font-family:avenirlight;!important;color:#fff;">VR/AR</h6></a>
-            
-         
 
-           
-             
+
+
+
+
             </div>
-        
-        </div>
-        
 
-        
-        
-        
-        
         </div>
-        
+
+
+
+
+
+
+        </div>
+
             <div class="col l3"> <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
-  
-       <div class="footcatbundile"> <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
-        <a href="http://news.itu.int/category/regulation/">  
 
-        <h5 style="font-family:avenirbold;!important;color:#0173BC;padding-top:7%;">Regulation</h5></a> 
+       <div class="footcatbundile"> <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
+        <a href="http://news.itu.int/category/regulation/">
+
+        <h5 style="font-family:avenirbold;!important;color:#0173BC;padding-top:7%;">Regulation</h5></a>
         <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
          <div class="footcatitems"> <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
        <a href="http://news.itu.int/category/regulation/policy-regulatory-reform/">  <h6 style="font-family:avenirlight;!important;color:#fff;">Policy/ Regulatory Reform</h6></a>
        <a href="http://news.itu.int/category/regulation/tariff-policy-competition/">  <h6 style="font-family:avenirlight;!important;color:#fff;">Tariff Policy and Competition</h6></a>
 
-             
+
             </div>
-        
+
         </div>
-        
+
                   <div class="footcatbundile">
         <a href="http://news.itu.int/category/infrastructure/"><h5 style="font-family:avenirbold;!important;color:#0173BC;padding-top:7%;">Infrastructure</h5></a>
          <div class="footcatitems">
@@ -123,13 +123,13 @@
              <a href="http://news.itu.int/category/infrastructure/network-management/"><h6 style="font-family:avenirlight;!important;color:#fff;">Network Management</h6></a>
              <a href="http://news.itu.int/category/infrastructure/qualityperformance/"><h6 style="font-family:avenirlight;!important;color:#fff;">Quality/ Performance</h6></a>
 
-             
+
             </div>
-        
+
         </div>
-        
+
         </div>
-        
+
             <div class="col l5">
 
        <div class="footcatbundile">
@@ -152,54 +152,54 @@
                <a href="http://news.itu.int/category/ict4sdg/sdg15"> <h6 style="font-family:avenirlight;!important;color:#fff;">SDG 15: Life on Land</h6></a>
          <a href="http://news.itu.int/category/ict4sdg/sdg16"> <h6 style="font-family:avenirlight;!important;color:#fff;">SDG 16: Peace, Justice and Strong Institutions</h6></a>
                 <a href="http://news.itu.int/category/ict4sdg/sdg17"> <h6 style="font-family:avenirlight;!important;color:#fff;">SDG 17: Partnerships for the Goals</h6></a>
-             
+
             </div>
-        
-        </div>
-        
 
-        
-        
-        
-        
         </div>
 
-        
 
-        
-        
-    
+
+
+
+
+        </div>
+
+
+
+
+
+
     </div>
         <div class="row" style="margin-top: 16em;"> <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
 
     <div class="col l1"> <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
       <a href="https://www.itu.int/en/about/Pages/default.aspx"> <img class="ITU_superlogo" srcset="<?php echo get_template_directory_uri() . '/media/ituverticl-01.svg'; ?>" src="<?php echo get_template_directory_uri() . '/media/ituverticl-01.svg'; ?>"></a>
       <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
-      
+
     </div>
         <div class="col l8"> <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
         <h6 style="font-family:avenirlight;!important;color:white;!important;">
             &copy; International Telecommunication Union 1865-2018 All Rights Reserved. </br>ITU is the United Nations' specialized agency for information and communication technology. Any opinions expressed and statistics presented by third parties do not necessarily reflect the views of ITU.
-            
+
             </h6>
         <!--IND: the_field allows user to dynamically update the video href markup here with a form in the backend -->
-        
+
         </div>
-        
-        
-        
+
+
+
         </div>
-    
+
     </div>
 
 </div>
-    
+
 
 
 
 <!--end footer container-->
   <?php wp_footer(); ?>
- 
+
 <!--Linkedin Insights collection script-->
   <script type="text/javascript">
 _linkedin_data_partner_id = "94195";
