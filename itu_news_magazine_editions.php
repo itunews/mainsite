@@ -25,7 +25,7 @@ Template Name: ITU News Magazine Editons
           <br>
           <h6 style="font-family: avenirbold;">Latest edition</h6>
           <fieldset>
-            <div class="latest_newsletter_desc magazineitem"> <?php the_field('latest'); ?> </div>
+            <span class="latest_newsletter_desc magazineitem"> <?php the_field('latest'); ?> </span>
           </fieldset>
           <hr>
           <br>
@@ -56,8 +56,24 @@ Template Name: ITU News Magazine Editons
         <div class="col s12" id="2016">
           <span class="magazineitem"><?php the_field('2016_magazines'); ?></span>
         </div>
-        <div class="col s12" id="historical">
-          <span class="magazineitem"><a href="http://historicjournals.itu.int/issues" target="_blank">See archives from 1869 to 2015</a></span>
+        <div class="col s12" id="historical" style="margin-top:20px;">
+          <span class="magazineitem" style="font-family: avenirbold;"><a href="http://historicjournals.itu.int/issues" target="_blank">See archives from 1869 to 2015</a></span>
+          <a href="http://historicjournals.itu.int/issues" target="_blank">​​​​​​​​​​
+            <div class="slideshow_magazines_historic card magazinecover z-depth-2" id="slideshow_magazines_historic">
+              <div>
+               <img srcset="<?php echo get_template_directory_uri() . '/media/magazines/2011-ITUNews06_Cover-small-en.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/magazines/2011-ITUNews06_Cover-small-en.jpg'; ?>" >
+              </div>
+              <div>
+               <img srcset="<?php echo get_template_directory_uri() . '/media/magazines/2011-ITUNews09_Cover-small-en.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/magazines/2011-ITUNews09_Cover-small-en.jpg'; ?>" >
+              </div>
+              <div>
+               <img srcset="<?php echo get_template_directory_uri() . '/media/magazines/2012-ITUNews05_Cover-small-en.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/magazines/2012-ITUNews05_Cover-small-en.jpg'; ?>" >
+              </div>
+              <div>
+               <img srcset="<?php echo get_template_directory_uri() . '/media/magazines/2012-ITUNews09_Cover-small-en.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/magazines/2012-ITUNews09_Cover-small-en.jpg'; ?>" >
+              </div>
+            </div>
+          </a>
         </div>
       </div>
     </div>
@@ -73,7 +89,7 @@ Template Name: ITU News Magazine Editons
       <!--<a href=""><img class="responsive-img hoverable storyfirstadd wow appear-from-bottom element- animated" srcset="http://news.itu.int/wp-content/themes/itunews/media/wsis_advert.jpg" src="http://44qewv8ie16ohghf2s78zn7f.wpengine.netdna-cdn.com/wp-content/themes/itunews/media/wsis_advert.jpg" style="visibility: visible; animation-name: appear-from-bottom;"></a>-->
       <!-- IND: start LTelcom add -->
       <a href="http://www.lstelcom.com/" target="_blank">​​​​​​​​​​
-        <div id="slideshow">
+        <div class="slideshow_magazines_ad" id="slideshow_magazines_ad">
           <div>
            <img srcset="<?php echo get_template_directory_uri() . '/media/ad/2017_Ad-LStelcom04-en.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/ad/2017_Ad-LStelcom04-en.jpg'; ?>" >
           </div>
@@ -101,20 +117,31 @@ Template Name: ITU News Magazine Editons
 <script>
     $(document).ready(function(){
 
-    /*$('a').attr('target','_blank');*/
+    $('span.magazineitem a').attr('target','_blank');
+    $('#historical a').attr('target','_blank');
 
     $('.collapsible').collapsible();
 
-    $("#slideshow > div:gt(0)").hide();
-
+    $('#slideshow_magazines_ad > div:gt(0)').hide();
     setInterval(function() {
-      $('#slideshow > div:first')
+      $('#slideshow_magazines_ad > div:first')
         .fadeOut(1000)
         .next()
         .fadeIn(1000)
         .end()
-        .appendTo('#slideshow');
+        .appendTo('#slideshow_magazines_ad');
     }, 3000);
+
+    $("#slideshow_magazines_historic > div:gt(0)").hide();
+    setInterval(function() {
+      $('#slideshow_magazines_historic > div:first')
+        .fadeOut(1000)
+        .next()
+        .fadeIn(1000)
+        .end()
+        .appendTo('#slideshow_magazines_historic');
+    }, 3000);
+
   });
 </script>
 <?php get_footer(); ?>

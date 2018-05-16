@@ -51,12 +51,10 @@
 
     <div class="col l4 push-l1"> <!--IND: create a column 4/12th the width of the parent container -->
 
-      <a href="https://www.itu.int/net4/wsis/forum/2018/"><img class="responsive-img hoverable storyfirstadd wow appear-from-bottom element-animated" srcset="<?php echo get_template_directory_uri() . '/media/wsis_advert.jpg'; ?>" src="<?php echo get_template_directory_uri() . '/media/wsis_advert.jpg'; ?>"></a>
-
             <div class="newssignblok"> <!--IND: create the newsletter advert block -->
 
               <div class="newslettersignup wow appear-from-bottom element-animated hoverable">
-        <h5>Sign up to our ITU News Weekly</h5> <!--IND: force some style to the H tag -->
+        <h5>Sign up to our weekly Newsletter</h5> <!--IND: force some style to the H tag -->
         <a href="http://news.itu.int/subscribe/" class="newsletbuttontwo waves-effect waves-light btn">Subscribe</a> <!--IND: refer to the newsletbuttontwo class to modify this button --></div>
 
     <h5 style="padding-top:19%;font-family:avenirbold;color:#039be5;padding-bottom:2%;padding-top: 3em;">Popular Now</h5> <!--IND: insert the popular now title and forse some inline style -->

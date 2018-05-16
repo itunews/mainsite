@@ -16,6 +16,9 @@ Version: 2.0
 	font-family: 'Avenirbold';
 	src: url("fonts/AvenirNextLTPro-Bold.woff") format("woff"), url("fonts/AvenirNextLTPro-Bold.ttf") format("truetype");
 }
+.itunews-logo-lightblue{
+	color: #01A1DD;
+}
 a:-webkit-any-link {
 	text-decoration: none;
 }
@@ -1670,6 +1673,9 @@ table.highlight>tbody>tr:hover {
 .magazineinfo .magazineitem{
 	font-size: 1.2em;
 }
+.magazinecover{
+	box-shadow: 0 0 20px rgba(0,0,0,0.4) !important;
+}
 .magazineinfo ul li{
 	margin-left: 1em;
 }
@@ -1684,13 +1690,16 @@ table.highlight>tbody>tr:hover {
 	margin-bottom: 3em;
   border: 0;
 }
+.magazines_ad img{
+	border: 1px solid #e0ebeb;
+}
 @media only screen and (min-width: 450px) and (max-width: 1024px) {
 	.magazineinfo ul:not(:first-child){
 		height: 180px;
 	}
 }
 @media only screen and (min-width: 800px) {
-	.magazineinfo .image_float_left {
+	.magazineinfo .magazinecover {
 		float: left;
 		margin: 0.5em 1.5em 1em 0;
 		clear: left;
@@ -1712,8 +1721,17 @@ table.highlight>tbody>tr:hover {
 		margin-top: 8em;
 	}
 }
+.slideshow_magazines_historic {
+    position: relative;
+    width: 200px;
+    height: 259px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+.slideshow_magazines_historic > div {
+    position: absolute;
+}
 
-#slideshow {
+.slideshow_magazines_ad {
     margin: 50px auto;
     position: relative;
     width: 355px;
@@ -1721,8 +1739,7 @@ table.highlight>tbody>tr:hover {
     padding: 10px;
     box-shadow: 0 0 20px rgba(0,0,0,0.4);
 }
-
-#slideshow > div {
+.slideshow_magazines_ad > div {
     position: absolute;
     top: 10px;
     left: 10px;
